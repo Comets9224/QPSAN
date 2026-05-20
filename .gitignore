@@ -1,0 +1,40 @@
+# QPSAN Project .gitignore
+
+# ==================== Python ====================
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+
+# ==================== IDE ====================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# ==================== Project Outputs ====================
+output/
+checkpoint/
+logs/
+
+# ==================== Data ====================
+data/Cifar10/cifar-10-batches-py/
+data/Cifar10/cifar-10-python.tar.gz
+data/DirtyMNIST/data/
+data/DirtyMNIST/AmbiguousMNIST/
+data/DirtyMNIST/FastMNIST/
+data/FashionMNIST/processed/
+data/FashionMNIST/raw/
+data/FashionMNIST/FashionMNIST/
+data/FER2013/data/
+
+# ==================== Jupyter ====================
+.ipynb_checkpoints/
+*.ipynb
+
+# ==================== Environment ====================
+.venv/
+venv/
+.env
