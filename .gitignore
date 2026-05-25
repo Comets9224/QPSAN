@@ -38,3 +38,5 @@ data/FER2013/data/
 .venv/
 venv/
 .env
+
+REMIND.txt
