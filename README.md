@@ -130,7 +130,14 @@ QPSAN: RY gates encode (q-k difference, q+k sum) -> bidirectional CNOT entanglem
 
 ## References
 
-<!-- Add your reference bibliography here -->
+```bibtex
+@article{zhang2026quantum,
+  title={Quantum Parameterized Self-Attention Network for Image Classification},
+  author={Zhang, Wenwei and Wang, Jintao and Ye, Tianyu and Liao, Changgeng},
+  journal={arXiv preprint arXiv:2605.25365},
+  year={2026}
+}
+```
 
 ## License
 
